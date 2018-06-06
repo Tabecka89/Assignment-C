@@ -1,0 +1,17 @@
+﻿Build started 06/06/2018 18:01:05.
+     1>Project "C:\Users\Gal Tabecka\Desktop\GalTabecka201668001\Project1\Project1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Project1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Project1.vcxproj -> C:\Users\Gal Tabecka\Desktop\GalTabecka201668001\Debug\Project1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Project1.unsuccessfulbuild".
+         Touching "Debug\Project1.lastbuildstate".
+     1>Done Building Project "C:\Users\Gal Tabecka\Desktop\GalTabecka201668001\Project1\Project1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
